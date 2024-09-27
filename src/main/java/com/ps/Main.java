@@ -42,7 +42,7 @@ public class Main {
 
         System.out.printf("\nYour expected monthly payment would be: $%.2f", monthlyPayment);
         System.out.printf("\nYour total interest would be: $%.2f", totalInterest);
-    }git
+    }
 
     public static void FutureValueCalculator() {
         System.out.print("\n Please enter the deposit amount: ");
