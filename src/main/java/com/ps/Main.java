@@ -54,7 +54,7 @@ public class Main {
 
     // This method calculates and prints the future value of a one-time deposit.
     public static void FutureValueCalculator() {
-        System.out.print("\n Please enter the deposit amount: ");
+        System.out.print("\nPlease enter the deposit amount: ");
         float deposit = scnr.nextFloat();
         System.out.print("Please enter the interest rate as a decimal: ");
         float interest = scnr.nextFloat();
