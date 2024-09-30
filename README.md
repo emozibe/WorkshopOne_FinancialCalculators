@@ -11,23 +11,23 @@ Users can select which calculator they want, enter some basic information like l
 
 # Home Screen
 
-![Home Screen](D:\pluralsight\java-development\workshops\WorkshopOne_FinancialCalculators\Screenshots\home.png)
+![Home Screen](Screenshots\home.png)
 
 # Mortgage Calculator
 
-![Mortage Calculator](D:\pluralsight\java-development\workshops\WorkshopOne_FinancialCalculators\Screenshots\mortgage.png)
+![Mortage Calculator](Screenshots\mortgage.png)
 
 # Future Value Calculator
 
-![Future Value Calculator](D:\pluralsight\java-development\workshops\WorkshopOne_FinancialCalculators\Screenshots\futurevalue.png)
+![Future Value Calculator](Screenshots\futurevalue.png)
 
 # Present Value of an Annuity Calculator
 
-![Present Value Calculator](D:\pluralsight\java-development\workshops\WorkshopOne_FinancialCalculators\Screenshots\presentvalue.png)
+![Present Value Calculator](Screenshots\presentvalue.png)
 
 # Error Screen
 
-![Error Screen](D:\pluralsight\java-development\workshops\WorkshopOne_FinancialCalculators\Screenshots\error.png)
+![Error Screen](Screenshots\error.png)
 
 ## Interesting Code Snippet
 
