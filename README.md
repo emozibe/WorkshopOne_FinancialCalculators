@@ -11,23 +11,23 @@ Users can select which calculator they want, enter some basic information like l
 
 # Home Screen
 
-![Home Screen](Screenshots\home.png)
+![Home Screen](Screenshots/home.png)
 
 # Mortgage Calculator
 
-![Mortage Calculator](Screenshots\mortgage.png)
+![Mortgage Calculator](Screenshots/mortgage.png)
 
 # Future Value Calculator
 
-![Future Value Calculator](Screenshots\futurevalue.png)
+![Future Value Calculator](Screenshots/futurevalue.png)
 
 # Present Value of an Annuity Calculator
 
-![Present Value Calculator](Screenshots\presentvalue.png)
+![Present Value Calculator](Screenshots/presentvalue.png)
 
 # Error Screen
 
-![Error Screen](Screenshots\error.png)
+![Error Screen](Screenshots/error.png)
 
 ## Interesting Code Snippet
 
